@@ -1,2 +1,2 @@
 # brieucdlf.github.io
-Personal website
+Just a simple personal website.
